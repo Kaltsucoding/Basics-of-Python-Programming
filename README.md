@@ -1,2 +1,3 @@
 # Basics-of-Python-Programming
-Python examples
+
+Python examples, excercises and team project materials
